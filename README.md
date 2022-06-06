@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sejal132001
 - 👀 I’m interested in Software Development and Data Analysis.
-- 🌱 I’m currently learning Data Analysis Skills and Flutter &Java Development.
+- 🌱 I’m currently learning Data Analysis Skills and Flutter &C++ Development.
 - 💞️ I’m looking to collaborate on Data Analysis Projects and Software Deveopment Projects.
 - 📫 How to reach me : sejalzade759@gmail.com
 
